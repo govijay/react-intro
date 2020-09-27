@@ -1,1 +1,2 @@
-<h1>React Introduction Project- (adopt-me)</h1>
+<h1>Complete Intro to React from FrontEndMasters</h1>
+<h2> Pet adopt-me Project</h2>
