@@ -40,4 +40,4 @@
 - 01/10
   - Class Components.
     - ComponentDidMount, constructors , super(props)
-  - Rendering the class components
+  - Rendering the class componentsw
