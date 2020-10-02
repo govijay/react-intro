@@ -37,3 +37,7 @@
   - Inject Result to Pet component (parent to child)
   - Refactor Pet component.
   - Reach Router Config
+- 01/10
+  - Class Components.
+    - ComponentDidMount, constructors , super(props)
+  - Rendering the class components
