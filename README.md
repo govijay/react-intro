@@ -40,4 +40,7 @@
 - 01/10
   - Class Components.
     - ComponentDidMount, constructors , super(props)
-  - Rendering the class componentsw
+  - Rendering the class components
+- 02/10
+  - Carousel Components
+  - use of getDerivedStateFromProps
