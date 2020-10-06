@@ -4,43 +4,47 @@
 
 ### Learning Schedule:
 
-- 20/09
+- Ex:1
   - Intro, Pure React, npm
-- 21/09
+- Ex:2
   - ESlint,Prettier
   - Parcel
   - JSX
-- 23/09
+- Ex:3
   - Git init, remote sync
   - Hooks Intro
-- 24/09
+- Ex:4
   - Demo Project Intro
   - App Component , useState
-- 25/09
+- Ex:5
   - Search param Component.
   - EsLint rules config
-- 26/09
+- Ex:6
   - DropDown component.
   - Abstract Animal and BreedDropDown components.
-- 27/09
+- Ex:7
   - useEffects Intro
   - Dev mock set up
   - Exhaustive dep config
   - dependency on useEffects
-- 28/09
+- Ex:8
   - Handling Async
-- 29/09
+- Ex:9
   - API async call
   - Pet component
-- 30/09
+- Ex:10
   - Results component to render Pets.
   - Inject Result to Pet component (parent to child)
   - Refactor Pet component.
   - Reach Router Config
-- 01/10
+- Ex:11
   - Class Components.
     - ComponentDidMount, constructors , super(props)
   - Rendering the class components
-- 02/10
+- Ex:12
   - Carousel Components
   - use of getDerivedStateFromProps
+- Ex:13
+  - React Context
+    - useContext, createContext
+  - Context.Provider, Consumer
